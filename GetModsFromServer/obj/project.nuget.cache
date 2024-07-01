@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgGGG4fy8d2eGH4swbaX7xHsK+aud27d7PD1nfryVrleX28Vq3SP7KbHyscFrSCE5Bd3PmwOLpxSgJKyxSQV4g==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\MinecraftMods\\GetModsFromServer\\GetModsFromServer\\GetModsFromServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
