@@ -4,10 +4,10 @@ using Renci.SshNet.Sftp;
 
 public class Program
 {
-    private const string Host = "s12.joinserver.xyz";
+    private const string Host = "";
     private const int Port = 7477;
-    private const string Username = "uwcij1zb.dc4c1abb";
-    private const string Password = "EK5L+TGw_Ga4h";
+    private const string Username = "";
+    private const string Password = "";
     private const string RemoteDirectory = "/mods/";
     private const string LocalDirectory = ".minecraft\\mods";
 
