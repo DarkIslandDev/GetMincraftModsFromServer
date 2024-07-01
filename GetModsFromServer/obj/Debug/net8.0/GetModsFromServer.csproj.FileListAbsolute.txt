@@ -17,3 +17,4 @@ C:\DEV\MinecraftMods\GetModsFromServer\GetModsFromServer\obj\Debug\net8.0\GetMod
 C:\DEV\MinecraftMods\GetModsFromServer\GetModsFromServer\obj\Debug\net8.0\ref\GetModsFromServer.dll
 C:\DEV\MinecraftMods\GetModsFromServer\GetModsFromServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\DEV\MinecraftMods\GetModsFromServer\GetModsFromServer\bin\Debug\net8.0\System.Linq.Async.dll
+C:\DEV\MinecraftMods\GetModsFromServer\GetModsFromServer\obj\Debug\net8.0\GetModsFromServer.sourcelink.json
